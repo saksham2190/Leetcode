@@ -29,4 +29,4 @@ public class zeroSoneStwoS{
         sortedArray(arr);
         System.out.println(Arrays.toString(arr));
     }
-}t
+}
